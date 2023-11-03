@@ -66,6 +66,13 @@ requirements:
     - r-tibble
     - r-tidyr
     - r-vip
+    - r-pls
+    - r-ranger
+    - r-rmarkdown
+    - r-plyr
+    - r-mass
+    - r-kohonen
+    - r-randomforest
 
 test:
   commands:
