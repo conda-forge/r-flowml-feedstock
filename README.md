@@ -146,6 +146,6 @@ Feedstock Maintainers
 * [@KaBrrrp](https://github.com/KaBrrrp/)
 * [@SMLMS](https://github.com/SMLMS/)
 * [@apeltzer](https://github.com/apeltzer/)
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 * [@neslihanky](https://github.com/neslihanky/)
 
